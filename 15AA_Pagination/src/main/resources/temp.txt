@@ -1,0 +1,13 @@
+Get Method:- http://localhost:8081/posts?page=1&size=5
+
+Post Method:- http://localhost:8081/users
+{
+   
+    "name": "shafeeq bhai",
+    "posts": [
+        {
+            "title": "First Post",
+            "content": "This is the content of the first post."
+        }
+    ]
+}
